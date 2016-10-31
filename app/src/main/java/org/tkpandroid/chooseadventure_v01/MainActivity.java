@@ -9,8 +9,7 @@ import android.widget.Toast;
 //  First screen - give user 2 options(2 buttons): explore or wake up
 //  If they click on wakeUp: they get a Toast that says: "You wake up and have boring day. The end"
 //  If they click on explore: they get a Toast that says: "You approach a glowing, green bucket of ooze.
-//      Worried that you will
-//      get in trouble, you pick up the bucket."
+//      Worried that you will get in trouble, you pick up the bucket."
 
 public class MainActivity extends Activity implements View.OnClickListener
 {
@@ -28,9 +27,6 @@ public class MainActivity extends Activity implements View.OnClickListener
 
         buttonWakeUp.setOnClickListener(this);
         buttonExplore.setOnClickListener(this);
-
-
-
     }
 
     @Override
