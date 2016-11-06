@@ -13,6 +13,7 @@ import android.widget.Toast;
 //  If they click on explore: they get a Toast that says: "You approach a glowing, green bucket of ooze.
 //      Worried that you will get in trouble, you pick up the bucket."
 //
+//  Start of recipe
 //  Add two text boxes with your story text
 //  Add two buttons with their function names and declare them in your code
 //  Wire button instances to declared buttons
